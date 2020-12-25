@@ -1,0 +1,15 @@
+{
+  "name": "christmas_wishes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": "git@github.com:boogieraph/christmas_wishes.git",
+  "author": "Boogie Raph",
+  "license": "MIT",
+  "homepage": "https://boogieraph.github.io/christmas_wishes",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
